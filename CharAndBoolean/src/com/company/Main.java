@@ -8,5 +8,7 @@ public class Main {
 
 	    boolean myBoolean = true;
 	    boolean myBooleanTwo = false;
+
+	    String myString = "This is a string";
     }
 }
