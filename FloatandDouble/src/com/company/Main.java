@@ -7,6 +7,6 @@ public class Main {
         int myIntValue = 5/2;
         float myFloatValue = 5f / 2f;
         double myDoubleValue = 5d / 2d;
-        
+
     }
 }
