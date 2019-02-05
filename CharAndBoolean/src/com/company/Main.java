@@ -10,5 +10,7 @@ public class Main {
 	    boolean myBooleanTwo = false;
 
 	    String myString = "This is a string";
+
+
     }
 }
