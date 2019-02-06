@@ -15,7 +15,7 @@ public class Main {
         calculateScore(score);
     }
 
-    public static void calculateScore(int score) {
+    public static String calculateScore(int score) {
         System.out.println("This is a test");
 
         if(score <= 5000) {
@@ -25,5 +25,11 @@ public class Main {
         } else {
             System.out.println("Got here");
         }
+    }
+
+//    method overloading, create a unique method name and then replicate it, use different parameters
+    public static String calculateScore(String player) {
+        System.out.println(player);
+        return "Zero";
     }
 }
